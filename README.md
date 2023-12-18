@@ -1,3 +1,20 @@
+# About this repo
+
+This repository contains code and exercises for the "React Design Patterns" course on LinkedIn Learning. The course covers a variety of design patterns commonly used in React applications to enhance code organization, maintainability, and scalability.
+
+**Course Link:** [React Design Patterns on LinkedIn Learning](https://www.linkedin.com/learning/react-design-patterns?u=74653650)
+
+# Chapters Completed Currently
+
+- [x] Introduction (Completed)
+- [x] Chapter 1: Layout Components (Completed)
+- [x] Chapter 2: Container Components
+- [x] Chapter 3: Controlled and Uncontrolled Components
+- [x] Chapter 4: Higher-Order Components
+- [x] Chapter 5: Custom Hook Patterns
+- [x] Chapter 6: Functional Programming and React
+- [x] Conclusion
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
