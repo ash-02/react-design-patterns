@@ -4,6 +4,7 @@ export const ProductListItem = ({
     return(
         <>
         <h3>
+            1.
             Name: <br />
             {
                 product.name
