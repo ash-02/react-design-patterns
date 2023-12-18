@@ -6,7 +6,7 @@ This repository contains code and exercises for the "React Design Patterns" cour
 
 # Chapters Completed Currently
 
-- [x] Introduction (Completed)
+- [x] Introduction
 - [x] Chapter 1: Layout Components
 - [ ] Chapter 2: Container Components
 - [ ] Chapter 2: Container Components
