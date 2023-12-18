@@ -8,12 +8,12 @@ This repository contains code and exercises for the "React Design Patterns" cour
 
 - [x] Introduction (Completed)
 - [x] Chapter 1: Layout Components (Completed)
-- [] Chapter 2: Container Components
-- [] Chapter 3: Controlled and Uncontrolled Components
-- [] Chapter 4: Higher-Order Components
-- [] Chapter 5: Custom Hook Patterns
-- [] Chapter 6: Functional Programming and React
-- [] Conclusion
+- [-] Chapter 2: Container Components
+- [-] Chapter 3: Controlled and Uncontrolled Components
+- [-] Chapter 4: Higher-Order Components
+- [-] Chapter 5: Custom Hook Patterns
+- [-] Chapter 6: Functional Programming and React
+- [-] Conclusion
 
 # Getting Started with Create React App
 
